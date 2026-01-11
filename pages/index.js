@@ -23,7 +23,7 @@ export default function Home({allPostsData}) {// Homeコンポーネントはpro
       </Head>
       <section>
         <p className={utilStyles.headingMd}>
-          私はフルスタックエンジニアです/ブログを書いています。
+          私はNextjsエンジニアです/ブログを書いています。/好きなフレームワークはNextjsでございます。
         </p>
       </section>
       <section>
